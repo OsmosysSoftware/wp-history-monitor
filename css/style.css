@@ -1,0 +1,48 @@
+#customdatepickerone, #customdatepickertwo {
+    width: 280px;
+    height: 30px;
+    border-radius: 5px;
+}
+.datepickers-container, .buttons-container {
+    text-align: center;
+}
+#user-posts, #user-pages, #user-registered {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.date-inp-field {
+    display: inline-block;
+}
+#txtFromDate, #txtToDate {
+    width: 250px;
+}
+#datetimepickerone, #datetimepickertwo {
+    margin: 10px 10px;
+}
+table {
+    width: 1000px;
+    margin: auto;
+}
+#dateError, #ajaxFailMsg {
+    display: none;
+    background-color: #ff0000;
+    color: white;
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 10px;
+    width: 500px;
+    border-radius: 5px;
+}
+.not-admin-error {
+    text-align: center;
+    margin-top: 20px;
+}
+.dataTables_empty{
+   text-align: center;
+}
+div.dataTables_wrapper div.dataTables_paginate {
+  display: inline-block;
+  float: right;
+}
+
