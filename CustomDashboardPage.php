@@ -1,9 +1,13 @@
 <?php
 
-/* 
-    Plugin Name: Site activity 
-    Description: This plugin creates custom dashboard page in dashboard.
-    Author: Sivakumar Tadisetti
+/* *
+ * Plugin Name: Wp-History-Monitor
+ * Plugin URI:
+ * Description: This plugin is used to monitor the history of posts, pages and user's details.
+ * Version: 0.1.0
+ * Author: Osmosys-Sivakumar T
+ * Author URI: http://www.osmosys.asia
+ * License: GPL2
  */
 
 class CustomDashboardPage {
@@ -23,6 +27,8 @@ class CustomDashboardPage {
         wp_enqueue_style('bootstrap-css');
         wp_register_style('bootstrap-datepicker-css', plugins_url() . '/CustomDashboardPage/css/datepicker-min.css');
         wp_enqueue_style('bootstrap-datepicker-css');
+        wp_register_style('pnotify.custom.min', plugins_url() . '/CustomDashboardPage/css/pnotify.custom.min.css');
+        wp_enqueue_style('pnotify.custom.min');
         wp_register_style('datatable-css', plugins_url() . '/CustomDashboardPage/css/datatables.min.css');
         wp_enqueue_style('datatable-css');
         wp_enqueue_style( 'style', plugins_url() . '/CustomDashboardPage/css/style.css');
@@ -35,6 +41,8 @@ class CustomDashboardPage {
         wp_enqueue_script('bootstrap-js');
         wp_register_script('moment-js', plugins_url() . '/CustomDashboardPage/js/moment.js');
         wp_enqueue_script('moment-js');
+        wp_register_script('pnotify.custom.min', plugins_url() . '/CustomDashboardPage/js/pnotify.custom.min.js');
+        wp_enqueue_script('pnotify.custom.min');
         wp_register_script('bootstrap-datepicker-script', plugins_url() . '/CustomDashboardPage/js/datepicker.js');
         wp_enqueue_script('bootstrap-datepicker-script');
         wp_register_script('datatable-js', plugins_url() . '/CustomDashboardPage/js/datatables.min.js');
