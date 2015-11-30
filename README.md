@@ -23,5 +23,20 @@ This Wp-History-Monitor, monitors your site history like posts published, posts 
 
 ### Screenshots
 
+First page screenshot of Wp-History-Monitor.
+
+![First image of wp-history-monitor](https://raw.githubusercontent.com/OsmosysSoftware/wp-history-monitor/master/images/firstimage.png)
+
+Screenshot showing user's posts published during entered date period's.
+
+![User's posts](https://raw.githubusercontent.com/OsmosysSoftware/wp-history-monitor/master/images/second%20image.png)
+
+Screenshot showing user's pages published during entered date period's.
+
+![User's pages ](https://raw.githubusercontent.com/OsmosysSoftware/wp-history-monitor/master/images/third%20page.png)
+
+Screenshot showing user's details during entered date period's.
+
+![User's details](https://raw.githubusercontent.com/OsmosysSoftware/wp-history-monitor/master/images/fifth%20page.png)
 
 
