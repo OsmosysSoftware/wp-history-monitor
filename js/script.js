@@ -31,8 +31,12 @@ var CustomDashboardPage = (function() {
                 jQuery.unblockUI();
             },
             error: function(xhr) {
-                jQuery('#ajaxFailMsg').show().html("Unable to process your request, Please try again.");
-                jQuery('#ajaxFailMsg').delay(4000).fadeOut();
+                new PNotify({
+                    title: 'Unable to process your request, Please try again.'
+                });
+                jQuery('.ui-pnotify').css({
+                    'width':'480px'
+                });
             }
         });
     }
