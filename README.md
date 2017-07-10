@@ -1,6 +1,6 @@
 ### Wp-History-Monitor
 
-Contributors: SivakumarT-Osmosys 
+Contributors: Osmosys 
 
 Donate link: http://www.osmosys.asia 
 
