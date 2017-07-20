@@ -31,19 +31,19 @@ This Wp-History-Monitor, monitors your site history like posts published, posts 
 
 ### Screenshots
 
-First page screenshot of Wp-History-Monitor.
+Home page of Wp-History-Monitor.
 
 ![First image of wp-history-monitor](https://github.com/OsmosysSoftware/wp-history-monitor/blob/master/images/home-page.png)
 
-Screenshot showing user's posts published during entered date period's.
+Screenshot showing users posts published during entered date interval. Whenever user clicks on post title, he will be redirected to that particular post.
 
 ![User's posts](https://github.com/OsmosysSoftware/wp-history-monitor/blob/master/images/posts-published.png)
 
-Screenshot showing user's pages published during entered date period's.
+Screenshot showing users pages published during entered date interval. Whenever user clicks on page title, he will be redirected to that particular page.
 
 ![User's pages ](https://github.com/OsmosysSoftware/wp-history-monitor/blob/master/images/pages-published.png)
 
-Screenshot showing user's details during entered date period's.
+Screenshot showing users details during entered date interval. 
 
 ![User's details](https://github.com/OsmosysSoftware/wp-history-monitor/blob/master/images/users-registered.png)
 
