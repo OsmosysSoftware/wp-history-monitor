@@ -1,6 +1,6 @@
 ### Wp-History-Monitor
 
-Contributors: Osmosys 
+Contributors: SivakumarT-Osmosys, AbijeetP-Osmosys, SampathkumarG-Osmosys 
 
 Donate link: http://www.osmosys.asia 
 
@@ -8,7 +8,7 @@ Tags: Published posts, Published pages, User's details, Drafts, Trashed items
 
 Requires at least: 4.0 
 
-Tested up to: 4.3.1 
+Tested up to: 4.8 
 
 Stable tag: 0.1.0  
 
