@@ -33,7 +33,7 @@ This Wp-History-Monitor, monitors your site history like posts published, posts 
 
 First page screenshot of Wp-History-Monitor.
 
-![First image of wp-history-monitor](https://raw.githubusercontent.com/OsmosysSoftware/wp-history-monitor/master/images/firstimage.png)
+![First image of wp-history-monitor](wp-history-monitor/images/home-page.png)
 
 Screenshot showing user's posts published during entered date period's.
 
